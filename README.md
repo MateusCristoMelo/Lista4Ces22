@@ -10,5 +10,5 @@ Para implementação de um novo produto, como a cafeteria, é necessário a adi�
 produtos para cafeteria ou alterar algum de seus atributos, outras subclasses que herdam dela devem ser criadas para essa finalidade. Abaixo está o diagrama de classes
 do projeto:
 
-![Screenshot](diagramaclasse.drawio.png)
+![Screenshot](diagramaclasse.png)
 
