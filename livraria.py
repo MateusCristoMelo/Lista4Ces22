@@ -89,8 +89,6 @@ class Cliente(Livraria):
     def __init__(self):
         self.nomecliente = ""
         self.email = ""
-        self.exemplarescomprados = ""
-
 
 class AdministracaoCliente(Cliente):
     """Classe de administracao dos livros"""
