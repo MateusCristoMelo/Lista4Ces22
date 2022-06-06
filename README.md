@@ -11,3 +11,4 @@ produtos para cafeteria ou alterar algum de seus atributos, outras subclasses qu
 do projeto:
 
 ![Screenshot](diagramaclasse.drawio.png)
+
